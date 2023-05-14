@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Machine Learning | Deep Learning | Software Development
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I am Anushree. :woman_technologist: 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I recently graduated from the [University of British Columbia, Vancouver](https://www.ubc.ca/). During my Master's program, I worked with [Dr.Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/) to develop interpretable [transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)-based models for fMRI analysis. Our work was selected for poster presentation in the 2023 [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114) Annual Meeting.
 
-What else do you need?
+Before I moved to Canada, I was a software engineer at Robert Bosch and Toshiba where I worked on car-infotainment systems and image processing functionalities of driver assistance systems. I am interested in the intersection of software engineering and Machine Learning and in the development of responsible AI systems.
 
-### My story
+Alongside my professional pursuits, I am a passionate fitness enthusiast. I started my journey with Zumba, even becoming a certified instructor for a year. However, since 2017, I have found my true calling in strength training and CrossFit and have been dedicated to it ever since. Additionally, I find solace in hiking, with favorites including the thrilling Chadar trek in Leh, India, and the breathtaking Panorama Ridge hike in Garibaldi Provincial Park. More details about all the hikes [here](hikes.md).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Thank you for visiting my portfolio page. I'd love to connect and explore potential opportunities or shared interests! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anushree-bannadabhavi-585435122/) or [email](anushree.bannadabhavi@gmail.com). 
+
+[CV](Anushree_Resume.pdf) | [Projects](projects.md)
+
+## Work 
+
