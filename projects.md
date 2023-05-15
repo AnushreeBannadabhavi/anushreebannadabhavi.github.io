@@ -9,8 +9,8 @@ title: Projects
 
 <style>
   .gif-container {
-    width: 100%;
-    max-width: 300px; /* Adjust the max-width value as needed */
+    height: auto; /* Let the height adjust automatically */
+    max-width: 200px;
   }
 
   .paragraph-container {
@@ -26,12 +26,16 @@ title: Projects
     </div>
   </div>
   <div class="col-md-6">
-    <div class="paragraph-container">
       <p>
-        Developed DE-TensoRF, a model that can render high-quality 3D objects with as few as 3 input images, and in under 15 min on a single GPU. Proposed three techniques to achieve data-effiency: (i) Obtain unseen views using symmetry (ii) Semantic conditioning (iii) Semantic Loss
+        Developed DE-TensoRF, a model that can render high-quality 3D objects with as few as 3 input images, and in under 15 min on a single GPU. Proposed three techniques to achieve data-effiency: (i) Obtain unseen views using symmetry (ii) Semantic conditioning (iii) Semantic Loss.
       </p>
-    </div>
   </div>
 </div>
 
 [GitHub](https://github.com/AnushreeBannadabhavi/DE-TensoRF) | [Report](https://github.com/AnushreeBannadabhavi/DE-TensoRF/blob/master/report.pdf)
+
+### Com-BrainTF
+
+### VDMGNN
+
+### Reinforcement learning proj
