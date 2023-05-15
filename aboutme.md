@@ -8,7 +8,7 @@ Hey there! I am Anushree. '{{ :woman_technologist: | emoji}}'
 
 I recently graduated from the [University of British Columbia, Vancouver](https://www.ubc.ca/). During my Master's program, I had the opportunity to work with [Dr.Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/) to develop interpretable [transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)-based models for fMRI analysis. Our work has been selected for poster presentation in the 2023 [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114) Annual Meeting!
 
-Before moving to Canada, I worked as a software engineer at Robert Bosch and Toshiba. I have a keen interest in the intersection of software engineering and Machine Learning, especially in building responsible AI systems.
+Before moving to Canada, I worked as a software engineer at Robert Bosch and Toshiba. I have a keen interest in the intersection of software engineering and Machine Learning, with a strong focus on developing responsible AI systems that make a positive impact.
 
 Apart from my professional pursuits, I'm a passionate fitness enthusiast. It all started with Zumba — I mean, who doesn't love to dance their heart out? I was even a certified zumba instructor! However, along the way, I discovered my true calling lies in strength training and CrossFit. 
 
