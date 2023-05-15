@@ -34,8 +34,6 @@ title: Projects
 
 [GitHub](https://github.com/AnushreeBannadabhavi/DE-TensoRF) | [Report](https://github.com/AnushreeBannadabhavi/DE-TensoRF/blob/master/report.pdf)
 
-### Com-BrainTF
-
 ### VDMGNN
 
 ### Reinforcement learning proj
