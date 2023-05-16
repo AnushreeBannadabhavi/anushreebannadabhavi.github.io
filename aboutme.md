@@ -14,7 +14,7 @@ Apart from my professional pursuits, I'm a passionate fitness enthusiast. It all
 
 Nature also holds a special place in my heart, and I love hiking. The Chadar trek in Leh, India, and the Panorama Ridge hike in Garibaldi Provincial Park are two of my favorite experiences. More details about all my hikes [here](../hikes/).
 
-Thank you for visiting my portfolio page! I'd love to connect and explore potential opportunities or shared interests! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anushree-bannadabhavi-585435122/) or [email](anushree.bannadabhavi@gmail.com). 
+Thank you for visiting my portfolio page! I'd love to connect and explore potential opportunities or shared interests! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anushree-bannadabhavi-585435122/) or [email](mailto:anushree.bannadabhavi@gmail.com). 
 
 [CV](../Anushree_Resume.pdf) | [Projects](../projects/)
 
