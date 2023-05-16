@@ -1,0 +1,33 @@
+- name: Panorama Ridge, Garibaldi Provincial Park
+  image: /assets/img/hikes/path.jpg
+  description: This is the description of Hike 1.
+  location: Location of Hike 1
+  difficulty: Moderate
+  duration: 3 hours
+  url: "../hikes/chadar"
+
+- name: Hike 2
+  image: "/assets/img/hikes/path.jpg"
+  description: This is the description of Hike 2.
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/chadar"
+
+- name: Hike 3
+  image: /assets/img/hikes/path.jpg
+  description: This is the description of Hike 1.
+  location: Location of Hike 1
+  difficulty: Moderate
+  duration: 3 hours
+  url: "../hikes/chadar"
+
+- name: Hike 2
+  image: "/assets/img/hikes/path.jpg"
+  description: This is the description of Hike 2.
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/chadar"
+
+# Repeat the above structure for the other hikes

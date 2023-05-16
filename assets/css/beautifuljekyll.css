@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 1.125rem;
+  font-size: 1.05rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
@@ -38,11 +38,10 @@ h2 {
   font-size: 1.875rem;
 }
 h3 {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 h4 {
   font-size: 1.125rem;
-  margin-bottom: 1.25rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
@@ -455,7 +454,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   .post-preview {
-    padding: 2.1875rem 0;
+    padding: 3.2rem 0;
   }
 }
 
@@ -560,7 +559,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 2.25rem;
+    font-size: 1.875rem;
   }
 }
 
@@ -723,14 +722,14 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     margin-top: 8.125rem;
   }
   .intro-header.big-img {
-    margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
+    margin-top: 5.6875rem; /*Full navbar is small navbar + 20px padding on each side when expanded */
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3.5rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
