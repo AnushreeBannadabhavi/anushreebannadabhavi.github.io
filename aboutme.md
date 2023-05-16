@@ -12,12 +12,10 @@ Before moving to Canada, I worked as a software engineer at Robert Bosch and Tos
 
 Apart from my professional pursuits, I'm a passionate fitness enthusiast. It all started with Zumba — I mean, who doesn't love to dance their heart out? I was even a certified zumba instructor! However, along the way, I discovered my true calling lies in strength training and CrossFit. 
 
-Nature also holds a special place in my heart, and I love hiking. The Chadar trek in Leh, India, and the Panorama Ridge hike in Garibaldi Provincial Park are two of my favorite experiences. More details about all my hikes [here](../hikes/).
+Nature holds a special place in my heart, and I love hiking. The Chadar trek in Leh, India, and the Panorama Ridge hike in Garibaldi Provincial Park are two of my favorite experiences. More details about all my hikes [here](../hikes/).
 
 Thank you for visiting my portfolio page! I'd love to connect and explore potential opportunities or shared interests! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anushree-bannadabhavi-585435122/) or [email](mailto:anushree.bannadabhavi@gmail.com). 
 
 [CV](../Anushree_Resume.pdf) | [Projects](../projects/)
-
-
 
 
