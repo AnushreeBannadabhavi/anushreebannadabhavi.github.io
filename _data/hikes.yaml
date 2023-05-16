@@ -1,33 +1,97 @@
-- name: Panorama Ridge, Garibaldi Provincial Park
-  image: /assets/img/hikes/path.jpg
-  description: This is the description of Hike 1.
+- name: Panorama Ridge
+  image: /assets/img/hikes/panorama/1.jpg
+  description: Garibaldi Provincial Park, BC, Canada
   location: Location of Hike 1
   difficulty: Moderate
   duration: 3 hours
-  url: "../hikes/chadar"
+  url: "../hikes/panorama"
 
-- name: Hike 2
+- name: Chadar Trek
   image: "/assets/img/hikes/path.jpg"
-  description: This is the description of Hike 2.
+  description: Ladakh, India
   location: Location of Hike 2
   difficulty: Easy
   duration: 2 hours
   url: "../hikes/chadar"
 
-- name: Hike 3
+- name: Fish Lake Lookout
   image: /assets/img/hikes/path.jpg
-  description: This is the description of Hike 1.
+  description: Yukon, Canada
   location: Location of Hike 1
   difficulty: Moderate
   duration: 3 hours
-  url: "../hikes/chadar"
+  url: "../hikes/fishLake"
 
-- name: Hike 2
+- name: Sar Pass
   image: "/assets/img/hikes/path.jpg"
-  description: This is the description of Hike 2.
+  description: Himachal Pradesh, India
   location: Location of Hike 2
   difficulty: Easy
   duration: 2 hours
-  url: "../hikes/chadar"
+  url: "../hikes/sarpass"
+
+- name: Chanderkhani Pass
+  image: "/assets/img/hikes/path.jpg"
+  description: Himachal Pradesh, India
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/chanderkhani"
+
+- name: Grouse Grind
+  image: "/assets/img/hikes/path.jpg"
+  description: Grouse Mountain, BC, Canada
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/grouse"
+
+- name: Mt Gardener
+  image: "/assets/img/hikes/path.jpg"
+  description: Bowen island, BC, Canada
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/bowen"
+
+- name: Tunnel Bluffs
+  image: "/assets/img/hikes/path.jpg"
+  description: Squamish, BC, Canada
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/tunnel"
+
+- name: The Chief
+  image: "/assets/img/hikes/path.jpg"
+  description: Squamish, BC, Canada
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/joffre"
+
+- name: Joffre Lakes
+  image: "/assets/img/hikes/path.jpg"
+  description: Pemberton, BC, Canada
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/joffre"
+
+- name: Norvan Falls
+  image: "/assets/img/hikes/path.jpg"
+  description: North Vancouver, BC, Canada
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/joffre"
+
+- name: St Marks Summit
+  image: "/assets/img/hikes/path.jpg"
+  description: Cypress, BC, Canada
+  location: Location of Hike 2
+  difficulty: Easy
+  duration: 2 hours
+  url: "../hikes/joffre"
 
 # Repeat the above structure for the other hikes
