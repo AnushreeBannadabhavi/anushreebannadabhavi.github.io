@@ -42,7 +42,7 @@ Developed <b>DE-TensoRF</b>, a model that can render high-quality 3D objects wit
   </div>
   <div class="col-md-6 center">
     <div class="gif-container">
-      <img src="/assets/img/tensoRF.gif" alt="TensoRF GIF" style="max-width: 100%; height: auto;">
+      <img src="/assets/img/tensoRf.gif" alt="TensoRF GIF" style="max-width: 100%; height: auto;">
       <div class="fig-caption">
       <figcaption>3D reconstruction by original <b>TensoRF (baseline)</b> with 3 input images</figcaption>
       </div>
