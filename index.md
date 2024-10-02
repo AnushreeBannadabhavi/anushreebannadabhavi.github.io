@@ -12,9 +12,6 @@ I currently work at Arteria AI as an NLP Data Scientist and my work revolves aro
 
 With expertise in software engineering and AI, I'm passionate about integrating these fields to drive innovation and tackle complex real-world problems.
 
-
-recently graduated from the [University of British Columbia, Vancouver](https://www.ubc.ca/). During my Master's program, I had the opportunity to work with [Dr.Xiaoxiao Li](https://xxlya.github.io/xiaoxiao/) to develop interpretable [transformer](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)-based models for fMRI analysis. Our paper got accepted in the prestigious [MICCAI](https://conferences.miccai.org/2023/en/) (The Medical Image Computing and Computer Assisted Intervention Society) 2023 conference and the [OHBM](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114) 2023 Annual Meeting!
-
 Thank you for visiting my portfolio page! I'd love to connect and explore potential opportunities or shared interests! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/anushree-bannadabhavi-585435122/) or [email](mailto:anushree.bannadabhavi@gmail.com). 
 
 [Resume](../Anushree_Resume.pdf)  |  [Projects](../projects/)  |  [LinkedIn](https://www.linkedin.com/in/anushree-bannadabhavi-585435122/)
